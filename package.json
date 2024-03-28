@@ -1,0 +1,34 @@
+{
+  "name": "nequedolores",
+  "collaborators": [
+    "RND <dev@ringsnetwork.io>"
+  ],
+  "description": "Rings is a structured peer-to-peer network implementation using WebRTC, Chord algorithm, and full WebAssembly (WASM) support.\n",
+  "version": "1.0.0",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoleSchimmel/nequedolores.git"
+  },
+  "files": [
+    "rings_node_bg.wasm",
+    "rings_node.js",
+    "rings_node.d.ts"
+  ],
+  "module": "rings_node.js",
+  "types": "rings_node.d.ts",
+  "type": "module",
+  "main": "rings_node.js",
+  "sideEffects": false,
+  "keywords": [
+    "autem",
+    "omnis",
+    "eos",
+    "quis",
+    "expedita"
+  ],
+  "author": "KylieSimonis",
+  "bugs": {
+    "url": "https://github.com/KoleSchimmel/nequedolores.git/issues"
+  }
+}
